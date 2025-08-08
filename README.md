@@ -3,7 +3,7 @@
 ### Community College Internship Project with the Department of Energy at Berkeley National Lab
   Author: Jennifer Moreno-Ramirez  
   Research Mentor: Jennifer Kuehl  
-  Date Completed: TBD  
+  Date Completed: 8/8/25  
 ### Features:
     1. Enrichment Data Visualization
     2. Enrichment Data Filtering
